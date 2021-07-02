@@ -1,9 +1,9 @@
-## Neural Network Charity Analysis
+# Neural Network Charity Analysis
 
-# Overview of the analysis
+### Overview of the analysis
 Explain the purpose of this analysis.
 
-# Results
+### Results
 
 - Data Preprocessing
 What variable(s) are considered the target(s) for your model?
@@ -19,7 +19,7 @@ Were you able to achieve the target model performance?
 
 What steps did you take to try and increase model performance?
 
-# Summary
+### Summary
 Overall Results
 
 Recommendation
